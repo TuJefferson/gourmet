@@ -115,6 +115,15 @@ a:hover {
   margin: 0;
   padding: 60px; }
 
+  .img-fluid-copy{
+    max-width: 60%;    
+    height: auto; }
+  
+    .img-shadow {
+      border-radius: 7px;
+      -webkit-box-shadow: 0 5px 30px -5px rgba(0, 0, 0, 0.4);
+      box-shadow: 0 5px 30px -5px rgba(0, 0, 0, 0.4); }
+
 /**
  *  Typography
  *
